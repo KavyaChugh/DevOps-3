@@ -79,7 +79,7 @@ These issues were resolved by:
 
 ```bash
 git clone <repository-url>
-cd Test-Automation-500108301
+cd DevOps-3
 ```
 
 2. Create and activate a virtual environment:
