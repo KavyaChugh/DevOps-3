@@ -215,7 +215,7 @@ DevOps-3/
 
 ### GitHub Actions Artifacts
 
-![GitHub Actions Artifacts](docs/artifacts.png)
+![GitHub Actions Artifacts](docs/devops.png)
 
 The GitHub Actions workflow generates and stores:
 
